@@ -23,5 +23,3 @@ HTML5;
 CSS3 (efeito neon);
 
 JavaScript.
-
-link: https://github.com/kaiororodrigues113-design/IMC.git
