@@ -23,5 +23,3 @@ HTML5;
 CSS3 (efeito neon);
 
 JavaScript.
-
-link: http://127.0.0.1:3000/unc/192.168.0.189/Pedagogico/1_Técnico de Informática (Flavio)/HTML/Kaio/projetos-05-12-25/projetor00/index.html?serverWindowId=91cfcec4-3ba5-4001-b1dc-2c84af215c07
